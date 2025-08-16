@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "symbols",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Vesper",
+    "symbols.hidesExplorerArrows": false,
+    "editor.minimap.enabled": true
+}
